@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Approximate Knowledge</title>
-    <link>/</link>
-    <description>Recent content on Approximate Knowledge</description>
+    <title>welcome on Approximate Knowledge</title>
+    <link>/categories/welcome/</link>
+    <description>Recent content in welcome on Approximate Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Welcome to the Approximate Knowledge blog by Daniel Fryer. 
-Daniel Fryer is a statistician and programmer with approximate knowledge of many things.
-How did you almost know my name?
-I have approximate knowledge of many things.</description>
-    </item>
     
     <item>
       <title>Post number 0</title>
