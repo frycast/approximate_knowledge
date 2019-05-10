@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1557461602402.000,
+    "created" : 1557502336592.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "92F56DEE",
-    "lastKnownWriteTime" : 1557461833,
-    "last_content_update" : 1557461833191,
-    "path" : "C:/Users/dfryer/Google Drive/YSync/PhD/Blogdown/approximate_knowledge/content/post/2019-05-10-post-number-0.md",
+    "id" : "34E312BA",
+    "lastKnownWriteTime" : 1557502514,
+    "last_content_update" : 1557502512313,
+    "path" : "D:/GDrive/YSync/PhD/Blogdown/approximate_knowledge/content/post/2019-05-10-post-number-0.md",
     "project_path" : "content/post/2019-05-10-post-number-0.md",
     "properties" : {
-        "cursorPosition" : "11,173",
+        "cursorPosition" : "15,0",
         "scrollLine" : "0"
     },
-    "relative_order" : 4,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
