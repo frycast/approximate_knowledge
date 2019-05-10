@@ -12,4 +12,4 @@ tags:
 You're too early. Come back later for some approximately fun and informative posts. Here's something nice though:
 
 
-[Trace of a matrix product](https://i.postimg.cc/tR1RTw21/2019-05-11.png)
+![Trace of a matrix product](https://i.postimg.cc/tR1RTw21/2019-05-11.png)
