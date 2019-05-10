@@ -25,11 +25,6 @@
   </url>
   
   <url>
-    <loc>/2019/05/10/post-number-0/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -42,14 +37,19 @@
   </url>
   
   <url>
+    <loc>/tags/welcome/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/welcome/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/welcome/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <loc>/1/01/01/</loc>
     <priority>0</priority>
   </url>
   
