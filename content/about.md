@@ -3,10 +3,12 @@ date: "2019-05-10"
 title: About
 ---
 
-Welcome to the Approximate Knowledge blog by Daniel Fryer. [![twitter](https://img.shields.io/twitter/url/http/shields.io.svg)](https://twitter.com/dvfryer)
+Hello Person.
+
+![How did you almost know my name?](https://gifimage.net/wp-content/uploads/2017/11/i-have-approximate-knowledge-of-many-things-gif-3.gif)
 
 Daniel Fryer is a statistician and programmer with approximate knowledge of many things.
 
-![How did you almost know my name?](https://gifimage.net/i-have-approximate-knowledge-of-many-things-gif-3/)
+![I have approximate knowledge of many things.](https://i.imgur.com/1bbfWs1.gif)
 
-![I have approximate knowledge of many things.](https://imgur.com/1bbfWs1")
+Welcome to the Approximate Knowledge blog by Daniel Fryer. [![twitter](https://img.shields.io/twitter/url/http/shields.io.svg)](https://twitter.com/dvfryer). 
