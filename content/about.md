@@ -7,6 +7,6 @@ Welcome to the Approximate Knowledge blog by Daniel Fryer. [![twitter](https://i
 
 Daniel Fryer is a statistician and programmer with approximate knowledge of many things.
 
-[How did you almost know my name?](https://gifimage.net/i-have-approximate-knowledge-of-many-things-gif-3/)
+![How did you almost know my name?](https://gifimage.net/i-have-approximate-knowledge-of-many-things-gif-3/)
 
-[I have approximate knowledge of many things.](https://imgur.com/1bbfWs1")
+![I have approximate knowledge of many things.](https://imgur.com/1bbfWs1")
