@@ -6,19 +6,9 @@
     <description>Recent content in Categories on Approximate Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>welcome</title>
-      <link>/categories/welcome/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/welcome/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
