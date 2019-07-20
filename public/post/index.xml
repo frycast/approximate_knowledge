@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Approximate Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Words</title>
+      <link>/post/words/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/words/</guid>
+      <description>Use words for brevity and clarity, not for grandiloquence. Approximate knowledge blog does not accept liability for any damages incurrect via the misuse of words herein.
+Contradistinction  The difference between two or more things that is made clear by comparing them: I use the term &amp;ldquo;child&amp;rdquo; in contradistinction to &amp;ldquo;parent&amp;rdquo; - it does not necessarily refer to a juvenile. - Cambridge</description>
+    </item>
     
     <item>
       <title>Quotes</title>
